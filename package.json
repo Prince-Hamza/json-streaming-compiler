@@ -1,0 +1,20 @@
+{
+  "name": "streamify",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "JSONStream": "^1.3.5",
+    "clarinet": "^0.12.4",
+    "event-stream": "^4.0.1",
+    "events": "^3.3.0",
+    "fs": "^0.0.1-security",
+    "pause": "^0.1.0",
+    "request": "^2.88.2"
+  }
+}

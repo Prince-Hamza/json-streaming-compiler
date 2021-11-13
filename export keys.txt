@@ -1,0 +1,10 @@
+
+
+multibrand 
+1: e056c47a-f3cf-4e80-b4ed-477ad92b531b
+2: 7c4de04c-bd2a-4c8c-890a-006b5c65e472
+Dell:2b3d99b1-d22f-4079-b210-81cf8d25b908
+
+
+https://api.itscope.com/2.0/products/exports/470f62a5-8666-480b-a40b-f397569964ca
+auth :: m135172 : GXBlezJK0n-I55K4RV_f0vHIRrFq_YcTNh9Yz735LJs
